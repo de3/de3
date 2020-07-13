@@ -3,6 +3,6 @@
 
 ## Hi! 👋
 
-I'm Edi, software engineer at [![kerb](https://avatars2.githubusercontent.com/u/33044657?s=30&v=4)](https://github.com/kerb)
+I'm Edi, software engineer at [![kerb](https://avatars2.githubusercontent.com/u/33044657?s=30&v=4)](https://github.com/kerb-technologies)
 
 
